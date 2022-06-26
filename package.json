@@ -1,0 +1,25 @@
+{
+  "name": "Warranty_BlockChain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShresthBhimrajka/Warranty_BlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShresthBhimrajka/Warranty_BlockChain/issues"
+  },
+  "homepage": "https://github.com/ShresthBhimrajka/Warranty_BlockChain#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
